@@ -1,5 +1,5 @@
 # CYOA- Washed into the magic.
-By Angelina Sambuco,Ryan Mayleas, Nephtali R., Vincenzo Monterosso
+By Angelina Sambuco,Ryan Mayleas, Nephtali Roach, & Vincenzo Monterosso
 
 ## You Die and appear in a world full of magic. What do you do?
 
