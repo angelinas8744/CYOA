@@ -1,5 +1,5 @@
 # CYOA- Washed into the magic.
-By Angelina Sambuco, 
+By Angelina Sambuco,Ryan Mayleas 
 
 ## You Die and appear in a world full of magic. What do you do?
 
