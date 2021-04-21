@@ -1,3 +1,5 @@
-# Take the Left Path
-## You take the left path and in front of you,there's a sword and a troll blocking the door on the other side.You grab the sword but now what do you do?
+# You took the Left Path
+
+
+## Oh no! As you a traverse further into the dungeon, you spot a sword and a troll blocking the entrance to the sword room, what will you do?
 ### [Back away slowly](BackOff.md)
