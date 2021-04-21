@@ -1,4 +1,4 @@
 # Go to the dungeon on the left side
 ## You go inside the dungeon and there are 2 paths to take.Which one do you pick?
-### Take the Left Path
-### Take the Right Path
+### [Take the Left Path](LeftPath.md)
+### [Take the Right Path](RightPath.md)
