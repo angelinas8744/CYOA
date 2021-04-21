@@ -1,8 +1,8 @@
 # CYOA- Washed into the magic.
 
 By [Angelina Sambuco](https://github.com/angelinas8744), [Ryan Mayleas](https://github.com/ryanm6355), [Nephtali Roach](https://github.com/nephtalir6155), & [Vincenzo Monterosso](https://github.com/vincenzom6456)
-
-The purpose of this repo is to let the viewer explore this magical world and let them make choices of their own, while we use GitHub and commands we learned behind the scenes.
+## Purpose of Project:
+### The purpose of this repo was to create an aventure, while allowing the viewers to make choices, while we use GitHub and commands we learned behind the scenes.
 
 Click [here](begin.md) to begin your journey
 
