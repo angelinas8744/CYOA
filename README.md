@@ -2,9 +2,10 @@
 
 By [Angelina Sambuco](https://github.com/angelinas8744), [Ryan Mayleas](https://github.com/ryanm6355), [Nephtali Roach](https://github.com/nephtalir6155), & [Vincenzo Monterosso](https://github.com/vincenzom6456)
 
-The purpose of this repo is to let the viewer explore this magical world and let them make choices of their own, while we use GitHub and commands we learned behind the scenes.
+## Purpose of Project:
+### The purpose of this repo was to create an aventure, while allowing the viewers to make choices, while we use GitHub and commands we learned behind the scenes.
 
-
+# Story
 ## You died due to an accident and have been brought into a new world by a supernatural force, full of magic, beggining in an open plain. The first thing you spot are a mythical forest and a nearby dungeon. Which starter path shall you choose?
 
 ### [Enter the Dungeon](adventure-paths/GoToDungeon.md)
