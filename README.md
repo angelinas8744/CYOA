@@ -1,4 +1,4 @@
-# CYOA- Washed into the magic.
+# CYOA Project Title- Washed Into The Magic.
 
 By [Angelina Sambuco](https://github.com/angelinas8744), [Ryan Mayleas](https://github.com/ryanm6355), [Nephtali Roach](https://github.com/nephtalir6155), & [Vincenzo Monterosso](https://github.com/vincenzom6456)
 ## Purpose of Project:
