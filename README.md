@@ -1,5 +1,5 @@
 # CYOA- Washed into the magic.
-By Angelina Sambuco,Ryan Mayleas, Nephtali Roach, & Vincenzo Monterosso
+By Angelina Sambuco,Ryan Mayleas, Nephtali Roach, & [Vincenzo Monterosso](https://github.com/vincenzom6456)
 
 ## You died due to an accident and have been brought into a new world by a supernatural force, full of magic, beggining in an open plain. The first thing you spot are a mythical forest and a nearby dungeon. Which starter path shall you choose?
 
