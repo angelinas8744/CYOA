@@ -1,3 +1,5 @@
 # Take the right path
-## You take the right path,and it ends up being a death trap.You get crushed by the room's spiked ceiling and die.
-### [Back to the Beginning](../README.md)
+
+## As you proceed further into the dungeon, you activate and trap that summons an army of undead who proceed to kill you.
+# **You Died**
+### [Restart Adventure](../README.md)
