@@ -1,4 +1,5 @@
-# Enter the dungeon
-## You go inside the dungeon and there are 2 paths to take.Which one do you pick?
-### [Take the Left Path](LeftPath.md)
-### [Take the Right Path](RightPath.md)
+# Enter Dungeon
+## As you travel deeper and deeper into the dungeon, you come across a fork in the ... dungeon?(Pun intended). Which direction will you go?
+![](http://images.neopets.com/faerieland/caverns/faerie_cave_2paths.gif)
+### [Left Path](LeftPath.md)
+### [Right Path](RightPath.md)
