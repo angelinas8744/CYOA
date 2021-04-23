@@ -1,6 +1,6 @@
 # Run Away
 ![](https://pa1.narvii.com/6619/cc7e5472eadbc21beb106a255641ec3ba1b775eb_hq.gif)
-## Lighting strikes down, changing the mans form entirely. He looks more god-like. Then that's when it hits you, you realzie your mistake of killing the innocent creature because turns out, IT WAS THE PET OF A GOD!(dundundun) With this realization, you attempt to apologize but he strikes you with lightning before you get the chance.
+## Lighting strikes down, changing the mans form entirely. He looks more god-like. Then that's when it hits you, you realize your mistake of killing the innocent creature because turns out, IT WAS THE PET OF A GOD!(dundundun) With this realization, you attempt to apologize but he strikes you with lightning before you get the chance.
 ![](https://media0.giphy.com/media/gb8a9ZBOlU6k0/giphy.gif)
 ![](https://www.worldhistoryedu.com/wp-content/uploads/2019/10/Zeus.jpg)
 
