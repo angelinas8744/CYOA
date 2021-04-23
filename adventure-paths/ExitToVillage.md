@@ -1,7 +1,8 @@
 # Congratulations! 
 
-## You exit and you go to the nearby village where you truly begin you're new life.
+![](https://i.pinimg.com/originals/76/69/43/76694325d5aa6d827a86e115a072e4af.jpg)
+## You exit and find a nearby village where you truly begin you're new life. 
+# **THE END**
 
-### If you wise to restart your adventure, click here: [Start a new adventure](../begin.md)
-
-### Or maybe you would like a break, click here: [To go to the homepage](../README.md)
+### If you want to restart, click here: [Restart](../begin.md)
+### Or you can just head: [Home](../README.md)
